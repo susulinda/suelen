@@ -1,0 +1,218 @@
+.MW5IWV .Kv1aVt {
+    height: 100%;
+    position: absolute;
+    top: 0;
+    width: 100%;
+}
+.LWbAav {
+    background-color: var(--bg-overlay-color);
+    background-image: var(--bg-gradient);
+}
+a, abbr, acronym, address, applet, b, big, blockquote, button, caption, center, cite, code, dd, del, dfn, div, dl, dt, em, fieldset, font, footer, form, h1, h2, h3, h4, h5, h6, header, i, iframe, img, ins, kbd, label, legend, li, nav, object, ol, p, pre, q, s, samp, section, small, span, strike, strong, sub, sup, table, tbody, td, tfoot, th, thead, title, tr, tt, u, ul, var {
+    background: transparent;
+    border: 0;
+    margin: 0;
+    outline: 0;
+    padding: 0;
+    vertical-align: baseline;
+}
+folha de estilo do user agent
+div {
+    display: block;
+}
+.MW5IWV {
+    height: 100%;
+    left: 0;
+    -webkit-mask-image: var(--mask-image,none);
+    mask-image: var(--mask-image,none);
+    -webkit-mask-position: var(--mask-position,0);
+    mask-position: var(--mask-position,0);
+    -webkit-mask-repeat: var(--mask-repeat,no-repeat);
+    mask-repeat: var(--mask-repeat,no-repeat);
+    -webkit-mask-size: var(--mask-size,100%);
+    mask-size: var(--mask-size,100%);
+    overflow: hidden;
+    pointer-events: var(--fill-layer-background-media-pointer-events);
+    position: absolute;
+    top: 0;
+    width: 100%;
+}
+<style>
+#comp-ll1b0156 {
+    --bg-overlay-color: rgb(var(--color_11));
+    --bg-gradient: none;
+    width: 100%;
+    --column-width: 980px;
+    --column-flex: 980;
+}
+<style>
+#comp-ll1b0155 {
+    --bg-overlay-color: transparent;
+    --bg-gradient: none;
+    --padding: 0px;
+    --margin: 0px;
+    min-width: 980px;
+    --items-direction: row;
+}
+:host(:not(.device-mobile-optimized)) .CohWsy, [data-preview~=host] .CohWsy, body:not(.device-mobile-optimized) .CohWsy {
+    --display: flex;
+    display: var(--display);
+}
+[data-mesh-id$=-gridContainer]>*, [data-mesh-id$=-rotated-wrapper]>*, [data-mesh-id$=inlineContent]>:not([data-mesh-id$=-gridContainer]) {
+    pointer-events: auto;
+}
+[data-mesh-id$=centeredContent], [data-mesh-id$=form], [data-mesh-id$=inlineContent] {
+    pointer-events: none;
+    position: relative;
+}
+<style>
+#comp-ll1b0482 {
+    --bg-overlay-color: transparent;
+    --bg-gradient: none;
+    min-width: 980px;
+}
+.SPY_vo {
+    pointer-events: none;
+}
+<style>
+#idbsp {
+    --param_boolean_previewHover: false;
+    width: auto;
+    min-height: 40px;
+}
+<style>
+#SITE_PAGES {
+    --transition-duration: 700ms;
+}
+<style>
+#PAGES_CONTAINER {
+    --pinned-layer-in-container: 50;
+    --above-all-in-container: 49;
+}
+<style>
+#masterPage:not(.landingPage) {
+    --top-offset: 0px;
+    --header-height: 126px;
+}
+<style>
+#masterPage {
+    --pinned-layers-in-page: 0;
+}
+body {
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: 10px;
+}
+<style>
+:root, :host, .spxThemeOverride {
+    --wix-ads-height: 50px;
+    --wix-ads-top-height: 50px;
+    --site-width: 980px;
+    --above-all-z-index: 100000;
+    --portals-z-index: 100001;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    --minViewportSize: 320;
+    --maxViewportSize: 1920;
+    --theme-spx-ratio: 1px;
+    --color_0: 255,254,252;
+    --color_1: 42,124,111;
+    --color_2: 42,124,111;
+    --color_3: 44,141,126;
+    --color_4: 255,253,248;
+    --color_5: 238,250,247;
+    --color_6: 255,254,252;
+    --color_7: 189,233,226;
+    --color_8: 125,211,198;
+    --color_9: 64,188,168;
+    --color_10: 42,124,111;
+    --color_11: 255,254,252;
+    --color_12: 255,253,248;
+    --color_13: 149,189,182;
+    --color_14: 44,141,126;
+    --color_15: 42,124,111;
+    --color_16: 169,226,217;
+    --color_17: 84,197,179;
+    --color_18: 42,124,111;
+    --color_19: 28,83,74;
+    --color_20: 14,41,37;
+    --color_21: 205,240,234;
+    --color_22: 156,224,214;
+    --color_23: 106,209,193;
+    --color_24: 59,191,170;
+    --color_25: 44,141,126;
+    --color_26: 255,254,252;
+    --color_27: 255,253,248;
+    --color_28: 255,217,122;
+    --color_29: 252,180,0;
+    --color_30: 126,90,0;
+    --color_31: 246,253,251;
+    --color_32: 238,250,247;
+    --color_33: 144,222,203;
+    --color_34: 55,189,155;
+    --color_35: 28,94,78;
+    --color_36: 255,254,252;
+    --color_37: 42,124,111;
+    --color_38: 255,253,248;
+    --color_39: 149,189,182;
+Mostrar todas as propriedades (37 ou mais)
+}
+<style>
+:root {
+    --toastify-color-light: #fff;
+    --toastify-color-dark: #121212;
+    --toastify-color-info: #3498db;
+    --toastify-color-success: #07bc0c;
+    --toastify-color-warning: #f1c40f;
+    --toastify-color-error: #e74c3c;
+    --toastify-color-transparent: hsla(0,0%,100%,.7);
+    --toastify-icon-color-info: var(--toastify-color-info);
+    --toastify-icon-color-success: var(--toastify-color-success);
+    --toastify-icon-color-warning: var(--toastify-color-warning);
+    --toastify-icon-color-error: var(--toastify-color-error);
+    --toastify-toast-width: 320px;
+    --toastify-toast-background: #fff;
+    --toastify-toast-min-height: 64px;
+    --toastify-toast-max-height: 800px;
+    --toastify-font-family: sans-serif;
+    --toastify-z-index: 9999;
+    --toastify-text-color-light: #757575;
+    --toastify-text-color-dark: #fff;
+    --toastify-text-color-info: #fff;
+    --toastify-text-color-success: #fff;
+    --toastify-text-color-warning: #fff;
+    --toastify-text-color-error: #fff;
+    --toastify-spinner-color: #616161;
+    --toastify-spinner-color-empty-area: #e0e0e0;
+    --toastify-color-progress-light: linear-gradient(90deg,#4cd964,#5ac8fa,#007aff,#34aadc,#5856d6,#ff2d55);
+    --toastify-color-progress-dark: #bb86fc;
+    --toastify-color-progress-info: var(--toastify-color-info);
+    --toastify-color-progress-success: var(--toastify-color-success);
+    --toastify-color-progress-warning: var(--toastify-color-warning);
+    --toastify-color-progress-error: var(--toastify-color-error);
+}
+:root, [data-preview~=root] {
+    --wix-font-stack: Madefor,"Helvetica Neue",Helvetica,Arial,"ãƒ¡ã‚¤ãƒªã‚ª","meiryo","ãƒ’ãƒ©ã‚®ãƒŽè§’ã‚´ pro w3","hiragino kaku gothic pro",sans-serif;
+    --wix-font-weight-regular: 400;
+    --wix-font-weight-medium: 530;
+    --wix-font-weight-bold: 700;
+    --wix-font-weight-xbold: 800;
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-font-smoothing: antialiased;
+}
+:root, [data-preview~=root] {
+    --ProGallery669818973-overFreemiumBanner: 1000000;
+    --ProGallery669818973-overFullscreen: 1000001;
+}
+:root {
+    --cookie-banner-primary-color: #fff;
+    --cookie-banner-secondary-color: #000;
+    --cookie-banner-font-family: HelveticaNeue,Helvetica Neue,helvetica,Sans-Serif;
+    --cookie-banner-font-size: 14px;
+}
+@supports (container-type:inline-size)
+:root {
+    --one-unit: 1cqw;
+}
+:root {
+    --one-unit: 1vw;
+}
